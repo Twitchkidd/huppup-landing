@@ -9,6 +9,7 @@ How fast can we get the essential information onto the web? Let's start there.
 - Name (HupPup!)
 - Description (Dog Running)
 - Tag Line
+- Services
 - Price
 - Location
 - Contact Info
