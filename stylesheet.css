@@ -1,0 +1,7 @@
+.sub {
+  background: #777;
+}
+
+#carousel {
+  display: flex;
+}
